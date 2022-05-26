@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kandi
 - ⭐️ I’m interested in Data engineering and Data science.
 - 👑 I’m currently a 4th year student at the University of Waterloo.
-- 🤓 I'm pursuing a double major in Mathematical Finance and Statistics, and a minor in Computational Mathematics.
+- 🤓 I'm pursuing a double major in Mathematical Finance and Statistics, with a minor in Computational Mathematics.
 - 📫 Feel free to reach out to me: kandiveer@gmail.com
 
 <!---
